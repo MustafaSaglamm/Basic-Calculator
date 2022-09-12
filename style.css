@@ -1,0 +1,55 @@
+body{
+    background-image: url(../hesapmakinesi/Matrix_digital-1968019.png);
+}
+
+
+div {
+background-color: rgb(51, 83, 3);
+    width: 350px;
+    margin: auto;
+ margin-top: 110px;
+   
+}   
+
+h1{
+    text-align: center;
+    color: #f4f4f4;
+    
+}
+
+table{
+    background: rgb(196, 193, 193);
+    border-spacing: 10px;
+    text-align: center;
+}
+
+table .btn{
+    width: 60px;
+    background: rgb(51, 83, 3);
+    text-align: center;
+    line-height: 60px;
+    color: #f4f4f4;
+    font-size: 1.5em;
+}
+
+.islem, .gosterge{
+
+    padding: 5px;
+    text-align: right;
+}
+
+.gosterge{
+    height: 50px;
+    background: #ddfafa;
+    color: #333;
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.islem{
+    background: #f4f4f4;
+}
